@@ -1,3 +1,7 @@
+# Forked From Repository Below with minimal changes made, Credits to jayanta525 and contribuors:
+
+https://github.com/jayanta525/rk3328-rock-pi-e
+
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
